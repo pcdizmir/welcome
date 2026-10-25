@@ -1,0 +1,20 @@
+{
+  "name": "pcdizmir-main",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build slides.md",
+    "build:short": "slidev build slides-short.md --out dist-short",
+    "dev": "slidev slides.md",
+    "dev:short": "slidev slides-short.md",
+    "export": "slidev export slides.md --output pcd-izmir-30min.pdf",
+    "export:short": "slidev export slides-short.md --output pcd-izmir-15min.pdf",
+    "fallbacks": "node scripts/generate-fallbacks.mjs"
+  },
+  "dependencies": {
+    "@slidev/cli": "53.0.0",
+    "@slidev/theme-default": "0.25.0",
+    "p5": "1.11.13",
+    "vue": "3.5.44"
+  }
+}

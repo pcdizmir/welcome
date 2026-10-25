@@ -1,0 +1,2 @@
+For information on the use of Processing Foundation trademarks and branding assets, see our Trademark Policy:
+https://github.com/processing/processing-community-day/blob/main/pcd-website/src/content/legal/trademark_policy.md
