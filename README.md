@@ -44,4 +44,3 @@ PDF dışa aktarımında canlı p5.js tuvalleri, `public/fallbacks/` içindeki s
 - Kod karşılaştırmasında iki **çalışma ortamını** kıyaslayın: Processing Java modu ile DOS dönemi Turbo C/BGI. Tam örnekler `examples/` klasöründedir. Bu örnek, genel olarak C veya C++ için elle bellek yönetimi gerektiği iddiası değildir; modern C kütüphaneleri girdi işini kolaylaştırabilir.
 - Tarihsel illüstrasyonlar arşiv fotoğrafı değildir. Kaynak bağlantıları, görsel kayıtları ve kullanım sınırları [`sources.md`](./sources.md) dosyasındadır.
 
-Sunumun araştırma ve editoryal çerçevesi [`md/PCD_2026_Processing_Research_and_Slidev_Brief.md`](./md/PCD_2026_Processing_Research_and_Slidev_Brief.md) dosyasındadır.
