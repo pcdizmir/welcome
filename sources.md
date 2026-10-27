@@ -1,6 +1,6 @@
 # Kaynaklar ve görsel kayıtları
 
-Bu kayıt, 23 Ekim 2026 tarihinde hazırlanan sunumdaki tarihsel iddiaları ve kullanılan görselleri izlemek içindir. Slayt notlarında ilgili bağlantılar ayrıca yer alır. `md/PCD_2026_Processing_Research_and_Slidev_Brief.md` editoryal ana kaynaktır.
+
 
 ## Tarih ve araçlar
 
@@ -34,7 +34,6 @@ Bu kayıt, 23 Ekim 2026 tarihinde hazırlanan sunumdaki tarihsel iddiaları ve k
 | Dağıtık PCD | [2019 kimlik görüşmesi](https://processingfoundation.org/blog/breaking-the-screen/), [PCD programı](https://processingfoundation.org/programs/processing-community-day/) | Slayt 22 |
 | PCD İzmir 2026 | [Küresel etkinlik kaydı](https://day.processing.org/event/pcd-izmir-2026-d70e9eb/), [İzmir Ekonomi Üniversitesi duyurusu](https://forum.ieu.app/ext/ieu/tr/events/type/read/id/1934) | Slayt 25: 26 Ekim; bitiş saatleri uyuşmadığı için saat kullanılmadı |
 
-**Tarih notu:** Processing Foundation'ın tarih sayfasındaki 1.0 yılı ile [24 Kasım 2008 çağdaş duyurusu](https://blog.arduino.cc/2008/11/25/processing-10/) çelişir. Slaytlarda 1.0 tarihi kullanılmaz; sorulursa 2008 duyurusu esas alınır.
 
 ## Görsel ve kod varlıkları
 
@@ -65,14 +64,6 @@ Bu kayıt, 23 Ekim 2026 tarihinde hazırlanan sunumdaki tarihsel iddiaları ve k
 | [Sketchpad tez çizimi](https://commons.wikimedia.org/wiki/File:SketchpadDissertation-Fig4-2.tif) | Ivan Sutherland, tarama Kerry Rodden; CC BY-SA 3.0. Görsel dosyası bu sunumda kullanılmadı. | Araştırma arka planı | Kaynak kaydı |
 | [Vera Molnár, *Quatre éléments distribués au hasard*](https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op) | Centre Pompidou kayıt numarası AM 2008-189; kullanıcı tarafından sağlanan tam görsel kredisi slaytta yer alır. | Ana 6 | © Adagp, Paris; fotoğraf Centre Pompidou / GrandPalaisRmn |
 | [2017 ilk PCD kaydı](https://processingfoundation.org/blog/presenters-at-processing-community-day/) | Fotoğraflar için açık yeniden kullanım izni doğrulanamadı. Görsel kopyalanmadı. | Ana 22 | Kaynak bağlantısı görünür. |
-
-### Üretilen görsellerin istemleri
-
-Bunlar görseller için kullanılan editoryal yönlendirmelerdir; tarihsel belge iddiası taşımazlar.
-
-1. **Erken bilgisayar:** “1960'ların bilgisayar odası ve çizici aygıtından esinlenen, bugünün görsel diliyle yapılmış sakin bir editoryal illüstrasyon. Krem, soluk mavi ve mercan tonları; konuşma için solda boş alan. Belirli bir tarihsel fotoğrafı, eseri veya gerçek kişiyi yeniden üretme. Yazı ve logo ekleme.”
-2. **Çizici stüdyosu:** “Çağdaş bir yaratıcı kodlama stüdyosunda kâğıt üzerinde çizici aygıt ve mürekkep izleri. Sıcak doğal ışık, dokulu kâğıt, ölçülü mavi ve mercan renkleri; solda başlık için boş alan. Belirli bir sanatçının işini veya gerçek cihaz markasını taklit etme. Yazı ve logo ekleme.”
-3. **Topluluk:** “Farklı katılımcıların ortak bir masa çevresinde yaratıcı kodlama eskizleri üzerinde çalıştığı, fotoğraf olmayan güncel editoryal illüstrasyon. Açık ve davetkâr ortam, krem/mavi/mercan paleti; solda başlık için boş alan. Gerçek etkinliği veya tanınan kişileri betimleme. Yazı ve logo ekleme.”
 
 
 ## Slayt 12 — Muriel Cooper ve Visible Language Workshop
